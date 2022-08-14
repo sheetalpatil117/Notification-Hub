@@ -1,0 +1,1 @@
+This is the project to maintain the notification regarding the whole class and gives the suitbale gui for the user .
